@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Tacking Fixture</title>
+    <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture.html</link>
+    <description>This project was developed during my internship at Serotta Competition Bicycles, in response to their need of a new fixture to be used for the production of bicycle frames.
+
+The project consisted of the modification of an existing tool in order to keep track of the new additions made in the manufacturing processes. These additions involved the change of measurements in some of the bicycle models, consequently bringing modifications to the production floor. This was one of the projects which I was involved with.
+</description>
+    <item>
+      <title>3D model</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture.html#0</link>
+      <guid isPermaLink="false">3b10eb55-beb6-43f8-92f6-c4307dd63f5d</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/Tacking%20Fixture/Tacking%20Fixture.jpg" length="22242" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/Tacking%20Fixture/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/Tacking%20Fixture/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/Tacking%20Fixture/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;3D model&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Prototype</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture.html#1</link>
+      <guid isPermaLink="false">21785aac-db55-4a03-8418-68b93f56c088</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/Fixture/Fixture.jpg" length="97048" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/Fixture/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/Fixture/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/Fixture/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Prototype&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Prototype detail</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture.html#2</link>
+      <guid isPermaLink="false">8dc0f77f-3dbd-48ec-b948-7ccbab1a1ae0</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/IMG_7935/IMG_7935.jpg" length="84893" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/IMG_7935/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/IMG_7935/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture_files/Media/IMG_7935/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Prototype detail&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Workshop</title>
+    <link>http://www.cbgworks.com/CBGworks/Workshop/Workshop.html</link>
+    <description>Workshop</description>
+    <item>
+      <title>PFC</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/PFC.html</link>
+      <guid isPermaLink="false">f249e388-3f49-41e9-b952-5fbdbe0d7e0e</guid>
+    </item>
+    <item>
+      <title>Dropouts</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html</link>
+      <guid isPermaLink="false">87946fa8-99f2-40cf-8e98-593ea48b66e1</guid>
+    </item>
+    <item>
+      <title>Dummies</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html</link>
+      <guid isPermaLink="false">2981369e-bea3-47d3-a1bf-08042595f335</guid>
+    </item>
+    <item>
+      <title>Tacking fixture</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Tacking_fixture.html</link>
+      <guid isPermaLink="false">954701d1-dbde-4387-bd27-4cd8bce0a172</guid>
+    </item>
+    <item>
+      <title>TIG</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/TIG.html</link>
+      <guid isPermaLink="false">c68e2d9b-f4a5-4a05-bb8a-3d4af4626a3d</guid>
+    </item>
+    <item>
+      <title>Water tank implementation</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Water_tank_implementation.html</link>
+      <guid isPermaLink="false">b303b9d2-4d29-45e4-a0cb-4aabc591b53d</guid>
+    </item>
+  </channel>
+</rss>

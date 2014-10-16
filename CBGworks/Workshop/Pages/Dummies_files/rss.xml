@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Dummies</title>
+    <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html</link>
+    <description>This project was developed during my internship at Serotta Competition Bicycles, on their need for a new tool to improve the manufacturing process of their bikes. 
+
+This tool, colloquially referred to as “Dummies”,  is intended to keep the different elements of a bicycle frame together during the tacking and welding process. 
+
+A list of requirements had been put together for the new tool, where the weight and holding system were the main concern. I designed a new clamping system to perform uniformed pressure of the tubes while being held without over tightening, unlike previous designs. 
+
+I engineered a design that suited all the requirements of the new tool. I developed the manufacturing process of a prototype and presented it to the welding crew, which was tested and approved. 
+</description>
+    <item>
+      <title>Top Tube Dummie assembly model</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#0</link>
+      <guid isPermaLink="false">c8781a82-77af-4ef8-8ece-3b4e908941a0</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/Top%20Tube%20Dummie/Top%20Tube%20Dummie.jpg" length="23748" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/Top%20Tube%20Dummie/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/Top%20Tube%20Dummie/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/Top%20Tube%20Dummie/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Top Tube Dummie assembly model&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>CAM Tool path simulation</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#1</link>
+      <guid isPermaLink="false">dec1ea75-2cab-4dd6-8625-00c0ae7bd035</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/CADCAM/CADCAM.jpg" length="87798" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/CADCAM/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/CADCAM/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/CADCAM/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;CAM Tool path simulation&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>CAM machining simulation</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#2</link>
+      <guid isPermaLink="false">cfd47053-b1a1-4501-bee3-dfbd9e23992d</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/MachiningCAM/MachiningCAM.jpg" length="69517" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/MachiningCAM/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/MachiningCAM/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/MachiningCAM/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;CAM machining simulation&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Clamp CNC Machining</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#3</link>
+      <guid isPermaLink="false">739b2c09-b450-4a72-8190-0a149f84f6a7</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/Mill/Mill.jpg" length="77534" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/Mill/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/Mill/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/Mill/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Clamp CNC Machining&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Mill view</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#4</link>
+      <guid isPermaLink="false">bc4f9805-9c9c-4a67-bbb5-def530e592e9</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7186/IMG_7186.jpg" length="112462" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7186/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7186/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7186/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Mill view&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>CNC Machining - Coolant</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#5</link>
+      <guid isPermaLink="false">c8bf8f94-d14d-4747-8cfc-6b1cd2a2504c</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7190/IMG_7190.jpg" length="94120" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7190/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7190/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7190/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;CNC Machining - Coolant&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Millroom</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#6</link>
+      <guid isPermaLink="false">cd98bbe9-cae2-4617-83a5-0c9e34a6614e</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7192/IMG_7192.jpg" length="129587" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7192/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7192/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7192/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Millroom&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Millroom</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#7</link>
+      <guid isPermaLink="false">4d1ef146-fcb9-4f4a-82b2-d42e66521940</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7193/IMG_7193.jpg" length="119998" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7193/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7193/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7193/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Millroom&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Precision detail</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#8</link>
+      <guid isPermaLink="false">d1a86788-931d-4b4f-8859-05c51763531b</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7196/IMG_7196.jpg" length="77761" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7196/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7196/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7196/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Precision detail&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Mill Fixtures</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#9</link>
+      <guid isPermaLink="false">8e8518c8-ec59-46c0-a108-39f853be10ad</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7197/IMG_7197.jpg" length="143459" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7197/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7197/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7197/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Mill Fixtures&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>First Operation</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#10</link>
+      <guid isPermaLink="false">d21860ac-400e-4ceb-bea0-650b890fcd09</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7198/IMG_7198.jpg" length="113927" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7198/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7198/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_7198/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;First Operation&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Prototype detail</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#11</link>
+      <guid isPermaLink="false">10f4009b-f863-44bb-9a55-4180ff0e870a</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_2811/IMG_2811.jpg" length="83365" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_2811/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_2811/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_2811/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Prototype detail&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Prototype view</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies.html#12</link>
+      <guid isPermaLink="false">f4b636a7-d574-45e2-9107-5a142652467c</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_2806/IMG_2806.jpg" length="129369" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_2806/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_2806/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dummies_files/Media/IMG_2806/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Prototype view&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

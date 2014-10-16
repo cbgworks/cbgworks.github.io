@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Dropouts</title>
+    <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html</link>
+    <description>This project started as a modification for a Dirt Jump bicycle frame, in order to make it compatible with a single speed transmission. 
+
+For those who are not familiar, the dropouts are meant to hold the rear wheel on a bicycle, with its transmission. One particularity of a mountain bike is the wide range of gear choice. However, the intent of this frame is “dirt jumping”, where the use of multiple gears is often not required. Hence this setup allows for a much simpler mechanism, which is translated into less mechanism failure and more fun!  
+
+This part was designed and modeled in 3D. CAM software was used to simulate the machining process and a prototype was manufactured for testing.
+
+The testing validated the design, and the prototype shown in the pictures is still rocking the jumps.</description>
+    <item>
+      <title>Prototype</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html#0</link>
+      <guid isPermaLink="false">642bab22-97db-48e0-ad78-147c3b46f223</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8029/IMG_8029.jpg" length="69523" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8029/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8029/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8029/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Prototype&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>3D model </title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html#1</link>
+      <guid isPermaLink="false">e421c1bc-26f7-4d49-a459-1f8eb3dac33f</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/Dropout%20Horizontal%20non%20drive%20side/Dropout%20Horizontal%20non%20drive%20side.jpg" length="26898" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/Dropout%20Horizontal%20non%20drive%20side/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/Dropout%20Horizontal%20non%20drive%20side/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/Dropout%20Horizontal%20non%20drive%20side/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;3D model &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>CAM toolpaths</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html#2</link>
+      <guid isPermaLink="false">8a7547ad-b85b-45ac-ac22-fb9530fd556d</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20toolpaths/CAM%20toolpaths.jpg" length="102047" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20toolpaths/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20toolpaths/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20toolpaths/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;CAM toolpaths&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>CAM machining simulation</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html#3</link>
+      <guid isPermaLink="false">3ca1e1a6-99eb-40ce-8e7f-cec16e5b03e6</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20machining/CAM%20machining.jpg" length="77541" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20machining/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20machining/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20machining/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;CAM machining simulation&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>CAM toolpaths</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html#4</link>
+      <guid isPermaLink="false">a020eea8-b146-4b9a-8e1c-2fa103acc1f6</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20toolpaths2/CAM%20toolpaths2.jpg" length="97231" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20toolpaths2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20toolpaths2/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/CAM%20toolpaths2/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;CAM toolpaths&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Mill machining</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html#5</link>
+      <guid isPermaLink="false">5a8969eb-c048-4661-867a-afa3145ef20d</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8015/IMG_8015.jpg" length="129972" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8015/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8015/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8015/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Mill machining&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Mill machining - contour</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html#6</link>
+      <guid isPermaLink="false">0ed5f0fb-7a10-4ba2-87cd-4cb3829fc712</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8026/IMG_8026.jpg" length="84116" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8026/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8026/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8026/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Mill machining - contour&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>IMG_8045</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html#7</link>
+      <guid isPermaLink="false">3991ff69-87d5-49d0-b973-2bdea96779d2</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8045/IMG_8045.jpg" length="125306" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8045/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8045/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8045/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;IMG_8045&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Final assembly</title>
+      <link>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts.html#8</link>
+      <guid isPermaLink="false">3077d1cc-ecf4-4f79-9d1e-970f711e0c71</guid>
+      <enclosure url="http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8041/IMG_8041.jpg" length="151715" type="image/jpeg"/>
+      <iphoto:thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8041/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8041/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://www.cbgworks.com/CBGworks/Workshop/Pages/Dropouts_files/Media/IMG_8041/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_0_0&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Final assembly&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
