@@ -331,6 +331,10 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
 .paragraph_style_13 {
     color: rgb(255, 255, 255);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -352,10 +356,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
 }
 .style_External_630_50 {
     position: relative;
