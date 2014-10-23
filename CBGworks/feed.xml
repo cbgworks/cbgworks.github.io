@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:0EC42747-9720-4560-9812-8880C6E1F804</id>
  <title>Page list Atom feed</title>
- <updated>2014-10-21T14:47:14-07:00</updated>
+ <updated>2014-10-22T17:05:17-07:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">7CF383DB-DBDC-4F4C-82C2-DD966D0F39F0</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2014-10-21T14:47:14.001-07:00</updated>
+  <updated>2014-10-22T17:05:17.001-07:00</updated>
   <content>Home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">Resume</title>
   <in-navbar xmlns="urn:iweb:">638395A9-EEAD-4D38-8F84-2E5C03FAB3D8</in-navbar>
   <link rel="alternate" href="Resume.html"/>
-  <updated>2014-10-21T14:47:14.002-07:00</updated>
+  <updated>2014-10-22T17:05:17.002-07:00</updated>
   <content>Resume</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">Workshop</title>
   <in-navbar xmlns="urn:iweb:">74F06B89-1302-446A-A927-8932BE79F414</in-navbar>
   <link rel="alternate" href="Workshop/Workshop.html"/>
-  <updated>2014-10-21T14:47:14.003-07:00</updated>
+  <updated>2014-10-22T17:05:17.003-07:00</updated>
   <content>Workshop</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">Contact</title>
   <in-navbar xmlns="urn:iweb:">B1E305EB-0586-4CB1-B2E0-90BE9A07FDD0</in-navbar>
   <link rel="alternate" href="Contact.html"/>
-  <updated>2014-10-21T14:47:14.004-07:00</updated>
+  <updated>2014-10-22T17:05:17.004-07:00</updated>
   <content>Contact</content>
  </entry>
 </feed>
